@@ -1,6 +1,6 @@
 [
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行1",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -14,7 +14,7 @@
     "pricer": "4499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行2",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -28,7 +28,7 @@
     "pricer": "4509"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行3",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -42,7 +42,7 @@
     "pricer": "4599"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行4",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -56,7 +56,7 @@
     "pricer": "3499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行5",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -70,7 +70,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行6",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -84,7 +84,7 @@
     "pricer": "4499"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行7",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -98,7 +98,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡13-15日自由行8",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -112,7 +112,7 @@
     "pricer": "5499"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行9",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -126,7 +126,7 @@
     "pricer": "5999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行10",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -140,7 +140,7 @@
     "pricer": "6000"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡2-4日自由行11",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -154,7 +154,7 @@
     "pricer": "6900"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行12",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -168,7 +168,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行13",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -182,7 +182,7 @@
     "pricer": "4499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行14",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -196,7 +196,7 @@
     "pricer": "4509"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行15",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -210,7 +210,7 @@
     "pricer": "4599"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行16",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -224,7 +224,7 @@
     "pricer": "3499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行17",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -238,7 +238,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行18",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -252,7 +252,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行19",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -266,7 +266,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行20",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -280,7 +280,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡13-15日自由行21",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -294,7 +294,7 @@
     "pricer": "5499"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行22",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -308,7 +308,7 @@
     "pricer": "5999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行23",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -322,7 +322,7 @@
     "pricer": "6000"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡2-4日自由行24",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -336,7 +336,7 @@
     "pricer": "6900"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行25",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -350,7 +350,7 @@
     "pricer": "4499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行26",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -364,7 +364,7 @@
     "pricer": "4509"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行27",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -378,7 +378,7 @@
     "pricer": "4599"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行28",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -392,7 +392,7 @@
     "pricer": "3499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行29",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -406,7 +406,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行30",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -420,7 +420,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行31",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -434,7 +434,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行32",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -448,7 +448,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡13-15日自由行33",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -462,7 +462,7 @@
     "pricer": "5499"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行34",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -476,7 +476,7 @@
     "pricer": "5999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行35",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -490,7 +490,7 @@
     "pricer": "6000"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡2-4日自由行36",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -504,7 +504,7 @@
     "pricer": "6900"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行37",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -518,7 +518,7 @@
     "pricer": "4499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行38",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -532,7 +532,7 @@
     "pricer": "4509"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行39",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -546,7 +546,7 @@
     "pricer": "4599"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行40",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -560,7 +560,7 @@
     "pricer": "3499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行41",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -574,7 +574,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行42",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -588,7 +588,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行43",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -602,7 +602,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行44",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -616,7 +616,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡13-15日自由行45",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -630,7 +630,7 @@
     "pricer": "5499"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行46",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -644,7 +644,7 @@
     "pricer": "5999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行47",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -658,7 +658,7 @@
     "pricer": "6000"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡2-4日自由行48",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -672,7 +672,7 @@
     "pricer": "6900"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行49",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -686,7 +686,7 @@
     "pricer": "4499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡6-7日自由行50",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -700,7 +700,7 @@
     "pricer": "4509"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行51",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -714,7 +714,7 @@
     "pricer": "4599"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡2-5日自由行52",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -728,7 +728,7 @@
     "pricer": "3499"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行53",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -742,7 +742,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList1.png",
+    "img": "image/proList1.png",
     "title": "上海－新加坡10-13日自由行54",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -756,7 +756,7 @@
     "pricer": "4490"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行55",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -770,7 +770,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡10-13日自由行56",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -784,7 +784,7 @@
     "pricer": "4999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡13-15日自由行57",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -798,7 +798,7 @@
     "pricer": "5499"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行58",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -812,7 +812,7 @@
     "pricer": "5999"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡6-7日自由行59",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
@@ -826,7 +826,7 @@
     "pricer": "6000"
   },
   {
-    "img": "http://localhost/tourism/image/proList2.png",
+    "img": "image/proList2.png",
     "title": "上海－新加坡2-4日自由行60",
     "desc": [
       "六人小团，错峰出行，私密性强，轻松游览",
